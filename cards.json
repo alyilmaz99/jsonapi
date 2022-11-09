@@ -1,0 +1,1544 @@
+[
+	{
+		"name":"abajur",
+		"isFront":true,
+		"imageUrl":"abajur.png"
+	},
+	{
+		"name":"ağlayan çınar",
+		"isFront":true,
+		"imageUrl":"ağlayan çınar.png"
+	},
+	{
+		"name":"ağ",
+		"isFront":true,
+		"imageUrl":"ağ.png"
+	},
+	{
+		"name":"akvaryum",
+		"isFront":true,
+		"imageUrl":"akvaryum.png"
+	},
+	{
+		"name":"alkol şişesi",
+		"isFront":true,
+		"imageUrl":"alkol şişesi.png"
+	},
+	{
+		"name":"ananas",
+		"isFront":true,
+		"imageUrl":"ananas.png"
+	},
+	{
+		"name":"ankesörlü telefon",
+		"isFront":true,
+		"imageUrl":"ankesörlü telefon.png"
+	},
+	{
+		"name":"antika",
+		"isFront":true,
+		"imageUrl":"antika.png"
+	},
+	{
+		"name":"arıza",
+		"isFront":true,
+		"imageUrl":"arıza.png"
+	},
+	{
+		"name":"asansör",
+		"isFront":true,
+		"imageUrl":"asansör.png"
+	},
+	{
+		"name":"asa",
+		"isFront":true,
+		"imageUrl":"asa.png"
+	},
+	{
+		"name":"askılık",
+		"isFront":true,
+		"imageUrl":"askılık.png"
+	},
+	{
+		"name":"asteroid",
+		"isFront":true,
+		"imageUrl":"asteroid.png"
+	},
+	{
+		"name":"astronot kedi",
+		"isFront":true,
+		"imageUrl":"astronot kedi.png"
+	},
+	{
+		"name":"ataç",
+		"isFront":true,
+		"imageUrl":"ataç.png"
+	},
+	{
+		"name":"at nalı",
+		"isFront":true,
+		"imageUrl":"at nalı.png"
+	},
+	{
+		"name":"avukat",
+		"isFront":true,
+		"imageUrl":"avukat.png"
+	},
+	{
+		"name":"ayak izi",
+		"isFront":true,
+		"imageUrl":"ayak izi.png"
+	},
+	{
+		"name":"ayna",
+		"isFront":true,
+		"imageUrl":"ayna.png"
+	},
+	{
+		"name":"banyo ördeği",
+		"isFront":true,
+		"imageUrl":"banyo ördeği.png"
+	},
+	{
+		"name":"baraka",
+		"isFront":true,
+		"imageUrl":"baraka.png"
+	},
+	{
+		"name":"baret",
+		"isFront":true,
+		"imageUrl":"baret.png"
+	},
+	{
+		"name":"barmen",
+		"isFront":true,
+		"imageUrl":"barmen.png"
+	},
+	{
+		"name":"başkan",
+		"isFront":true,
+		"imageUrl":"başkan.png"
+	},
+	{
+		"name":"bataklık",
+		"isFront":true,
+		"imageUrl":"bataklık.png"
+	},
+	{
+		"name":"batan gemi",
+		"isFront":true,
+		"imageUrl":"batan gemi.png"
+	},
+	{
+		"name":"bateri",
+		"isFront":true,
+		"imageUrl":"bateri.png"
+	},
+	{
+		"name":"bavul",
+		"isFront":true,
+		"imageUrl":"bavul.png"
+	},
+	{
+		"name":"bayrak",
+		"isFront":true,
+		"imageUrl":"bayrak.png"
+	},
+	{
+		"name":"bedevi",
+		"isFront":true,
+		"imageUrl":"bedevi.png"
+	},
+	{
+		"name":"bileklik",
+		"isFront":true,
+		"imageUrl":"bileklik.png"
+	},
+	{
+		"name":"bilge baykuş",
+		"isFront":true,
+		"imageUrl":"bilge baykuş.png"
+	},
+	{
+		"name":"bilim insanı",
+		"isFront":true,
+		"imageUrl":"bilim insanı.png"
+	},
+	{
+		"name":"bilinmeyen mesaj",
+		"isFront":true,
+		"imageUrl":"bilinmeyen mesaj.png"
+	},
+	{
+		"name":"bilinmeyen resimler",
+		"isFront":true,
+		"imageUrl":"bilinmeyen resimler.png"
+	},
+	{
+		"name":"bitki",
+		"isFront":true,
+		"imageUrl":"bitki.png"
+	},
+	{
+		"name":"bıçaklı gösteri",
+		"isFront":true,
+		"imageUrl":"bıçaklı gösteri.png"
+	},
+	{
+		"name":"bıçak",
+		"isFront":true,
+		"imageUrl":"bıçak.png"
+	},
+	{
+		"name":"bowling",
+		"isFront":true,
+		"imageUrl":"bowling.png"
+	},
+	{
+		"name":"boya",
+		"isFront":true,
+		"imageUrl":"boya.png"
+	},
+	{
+		"name":"buton",
+		"isFront":true,
+		"imageUrl":"buton.png"
+	},
+	{
+		"name":"büyücü asası",
+		"isFront":true,
+		"imageUrl":"büyücü asası.png"
+	},
+	{
+		"name":"büyücü",
+		"isFront":true,
+		"imageUrl":"büyücü.png"
+	},
+	{
+		"name":"büyü kazanı",
+		"isFront":true,
+		"imageUrl":"büyü kazanı.png"
+	},
+	{
+		"name":"büyü kitabı",
+		"isFront":true,
+		"imageUrl":"büyü kitabı.png"
+	},
+	{
+		"name":"büyüteç",
+		"isFront":true,
+		"imageUrl":"büyüteç.png"
+	},
+	{
+		"name":"buzdolabı",
+		"isFront":true,
+		"imageUrl":"buzdolabı.png"
+	},
+	{
+		"name":"buz",
+		"isFront":true,
+		"imageUrl":"buz.png"
+	},
+	{
+		"name":"cadı kazanı",
+		"isFront":true,
+		"imageUrl":"cadı kazanı.png"
+	},
+	{
+		"name":"cadı kulubesi",
+		"isFront":true,
+		"imageUrl":"cadı kulubesi.png"
+	},
+	{
+		"name":"çakmak",
+		"isFront":true,
+		"imageUrl":"çakmak.png"
+	},
+	{
+		"name":"cam bardak",
+		"isFront":true,
+		"imageUrl":"cam bardak.png"
+	},
+	{
+		"name":"çamurlu bot",
+		"isFront":true,
+		"imageUrl":"çamurlu bot.png"
+	},
+	{
+		"name":"can simidi",
+		"isFront":true,
+		"imageUrl":"can simidi.png"
+	},
+	{
+		"name":"cenaze",
+		"isFront":true,
+		"imageUrl":"cenaze.png"
+	},
+	{
+		"name":"çeşme",
+		"isFront":true,
+		"imageUrl":"çeşme.png"
+	},
+	{
+		"name":"çiftçi",
+		"isFront":true,
+		"imageUrl":"çiftçi.png"
+	},
+	{
+		"name":"çit",
+		"isFront":true,
+		"imageUrl":"çit.png"
+	},
+	{
+		"name":"çığlık",
+		"isFront":true,
+		"imageUrl":"çığlık.png"
+	},
+	{
+		"name":"çöplük",
+		"isFront":true,
+		"imageUrl":"çöplük.png"
+	},
+	{
+		"name":"çorap",
+		"isFront":true,
+		"imageUrl":"çorap.png"
+	},
+	{
+		"name":"dans etmek",
+		"isFront":true,
+		"imageUrl":"dans etmek.png"
+	},
+	{
+		"name":"dansöz",
+		"isFront":true,
+		"imageUrl":"dansöz.png"
+	},
+	{
+		"name":"delil dosyası",
+		"isFront":true,
+		"imageUrl":"delil dosyası.png"
+	},
+	{
+		"name":"demir yolu",
+		"isFront":true,
+		"imageUrl":"demir yolu.png"
+	},
+	{
+		"name":"deniz altı",
+		"isFront":true,
+		"imageUrl":"deniz altı.png"
+	},
+	{
+		"name":"deniz canavarı",
+		"isFront":true,
+		"imageUrl":"deniz canavarı.png"
+	},
+	{
+		"name":"denizci",
+		"isFront":true,
+		"imageUrl":"denizci.png"
+	},
+	{
+		"name":"deniz kabuğu kolye",
+		"isFront":true,
+		"imageUrl":"deniz kabuğu kolye.png"
+	},
+	{
+		"name":"deniz kızı",
+		"isFront":true,
+		"imageUrl":"deniz kızı.png"
+	},
+	{
+		"name":"deniz yıldızı",
+		"isFront":true,
+		"imageUrl":"deniz yıldızı.png"
+	},
+	{
+		"name":"deve",
+		"isFront":true,
+		"imageUrl":"deve.png"
+	},
+	{
+		"name":"dikiş makinesi",
+		"isFront":true,
+		"imageUrl":"dikiş makinesi.png"
+	},
+	{
+		"name":"dinamit",
+		"isFront":true,
+		"imageUrl":"dinamit.png"
+	},
+	{
+		"name":"diş fırçası",
+		"isFront":true,
+		"imageUrl":"diş fırçası.png"
+	},
+	{
+		"name":"disko topu",
+		"isFront":true,
+		"imageUrl":"disko topu.png"
+	},
+	{
+		"name":"diş macunu",
+		"isFront":true,
+		"imageUrl":"diş macunu.png"
+	},
+	{
+		"name":"düello",
+		"isFront":true,
+		"imageUrl":"düello.png"
+	},
+	{
+		"name":"duvar saati",
+		"isFront":true,
+		"imageUrl":"duvar saati.png"
+	},
+	{
+		"name":"ejderha",
+		"isFront":true,
+		"imageUrl":"ejderha.png"
+	},
+	{
+		"name":"el arabası",
+		"isFront":true,
+		"imageUrl":"el arabası.png"
+	},
+	{
+		"name":"elektrik kablosu",
+		"isFront":true,
+		"imageUrl":"elektrik kablosu.png"
+	},
+	{
+		"name":"elektroşok",
+		"isFront":true,
+		"imageUrl":"elektroşok.png"
+	},
+	{
+		"name":"elmas çuvalı",
+		"isFront":true,
+		"imageUrl":"elmas çuvalı.png"
+	},
+	{
+		"name":"fanus",
+		"isFront":true,
+		"imageUrl":"fanus.png"
+	},
+	{
+		"name":"fatura",
+		"isFront":true,
+		"imageUrl":"fatura.png"
+	},
+	{
+		"name":"fikir",
+		"isFront":true,
+		"imageUrl":"fikir.png"
+	},
+	{
+		"name":"filika",
+		"isFront":true,
+		"imageUrl":"filika.png"
+	},
+	{
+		"name":"fıçı",
+		"isFront":true,
+		"imageUrl":"fıçı.png"
+	},
+	{
+		"name":"flama",
+		"isFront":true,
+		"imageUrl":"flama.png"
+	},
+	{
+		"name":"fosforlu kalem",
+		"isFront":true,
+		"imageUrl":"fosforlu kalem.png"
+	},
+	{
+		"name":"fotoğraf makinesi",
+		"isFront":true,
+		"imageUrl":"fotoğraf makinesi.png"
+	},
+	{
+		"name":"fotoğraf",
+		"isFront":true,
+		"imageUrl":"fotoğraf.png"
+	},
+	{
+		"name":"fotokopi makinesi",
+		"isFront":true,
+		"imageUrl":"fotokopi makinesi.png"
+	},
+	{
+		"name":"gardiyan",
+		"isFront":true,
+		"imageUrl":"gardiyan.png"
+	},
+	{
+		"name":"gazete",
+		"isFront":true,
+		"imageUrl":"gazete.png"
+	},
+	{
+		"name":"gaz lambası",
+		"isFront":true,
+		"imageUrl":"gaz lambası.png"
+	},
+	{
+		"name":"gezegen",
+		"isFront":true,
+		"imageUrl":"gezegen.png"
+	},
+	{
+		"name":"gitar",
+		"isFront":true,
+		"imageUrl":"gitar.png"
+	},
+	{
+		"name":"gizli dosya",
+		"isFront":true,
+		"imageUrl":"gizli dosya.png"
+	},
+	{
+		"name":"gözlük",
+		"isFront":true,
+		"imageUrl":"gözlük.png"
+	},
+	{
+		"name":"güldürme büyüsü",
+		"isFront":true,
+		"imageUrl":"güldürme büyüsü.png"
+	},
+	{
+		"name":"güneş",
+		"isFront":true,
+		"imageUrl":"güneş.png"
+	},
+	{
+		"name":"güvenlik",
+		"isFront":true,
+		"imageUrl":"güvenlik.png"
+	},
+	{
+		"name":"halat",
+		"isFront":true,
+		"imageUrl":"halat.png"
+	},
+	{
+		"name":"hamburger",
+		"isFront":true,
+		"imageUrl":"hamburger.png"
+	},
+	{
+		"name":"harabe",
+		"isFront":true,
+		"imageUrl":"harabe.png"
+	},
+	{
+		"name":"hasta bakıcı",
+		"isFront":true,
+		"imageUrl":"hasta bakıcı.png"
+	},
+	{
+		"name":"hasta",
+		"isFront":true,
+		"imageUrl":"hasta.png"
+	},
+	{
+		"name":"hata kodu",
+		"isFront":true,
+		"imageUrl":"hata kodu.png"
+	},
+	{
+		"name":"havlu",
+		"isFront":true,
+		"imageUrl":"havlu.png"
+	},
+	{
+		"name":"havuz filesi",
+		"isFront":true,
+		"imageUrl":"havuz filesi.png"
+	},
+	{
+		"name":"hazine",
+		"isFront":true,
+		"imageUrl":"hazine.png"
+	},
+	{
+		"name":"hedef",
+		"isFront":true,
+		"imageUrl":"hedef.png"
+	},
+	{
+		"name":"hediye",
+		"isFront":true,
+		"imageUrl":"hediye.png"
+	},
+	{
+		"name":"helikopter",
+		"isFront":true,
+		"imageUrl":"helikopter.png"
+	},
+	{
+		"name":"heykel",
+		"isFront":true,
+		"imageUrl":"heykel.png"
+	},
+	{
+		"name":"hindistan cevizi",
+		"isFront":true,
+		"imageUrl":"hindistan cevizi.png"
+	},
+	{
+		"name":"hizmetçi robot",
+		"isFront":true,
+		"imageUrl":"hizmetçi robot.png"
+	},
+	{
+		"name":"hırsız",
+		"isFront":true,
+		"imageUrl":"hırsız.png"
+	},
+	{
+		"name":"hırsız uzaylı",
+		"isFront":true,
+		"imageUrl":"hırsız uzaylı.png"
+	},
+	{
+		"name":"idam sehpası",
+		"isFront":true,
+		"imageUrl":"idam sehpası.png"
+	},
+	{
+		"name":"iğne",
+		"isFront":true,
+		"imageUrl":"iğne.png"
+	},
+	{
+		"name":"iksir",
+		"isFront":true,
+		"imageUrl":"iksir.png"
+	},
+	{
+		"name":"inci",
+		"isFront":true,
+		"imageUrl":"inci.png"
+	},
+	{
+		"name":"iplik",
+		"isFront":true,
+		"imageUrl":"iplik.png"
+	},
+	{
+		"name":"iskambil",
+		"isFront":true,
+		"imageUrl":"iskambil.png"
+	},
+	{
+		"name":"istiridye",
+		"isFront":true,
+		"imageUrl":"istiridye.png"
+	},
+	{
+		"name":"ışın kılıcı",
+		"isFront":true,
+		"imageUrl":"ışın kılıcı.png"
+	},
+	{
+		"name":"ışınlanma",
+		"isFront":true,
+		"imageUrl":"ışınlanma.png"
+	},
+	{
+		"name":"jaluzi",
+		"isFront":true,
+		"imageUrl":"jaluzi.png"
+	},
+	{
+		"name":"japon balığı",
+		"isFront":true,
+		"imageUrl":"japon balığı.png"
+	},
+	{
+		"name":"kafes",
+		"isFront":true,
+		"imageUrl":"kafes.png"
+	},
+	{
+		"name":"kahve makinası",
+		"isFront":true,
+		"imageUrl":"kahve makinası.png"
+	},
+	{
+		"name":"kaktüs",
+		"isFront":true,
+		"imageUrl":"kaktüs.png"
+	},
+	{
+		"name":"kamp ateşi",
+		"isFront":true,
+		"imageUrl":"kamp ateşi.png"
+	},
+	{
+		"name":"kanama",
+		"isFront":true,
+		"imageUrl":"kanama.png"
+	},
+	{
+		"name":"kanca",
+		"isFront":true,
+		"imageUrl":"kanca.png"
+	},
+	{
+		"name":"kaptan",
+		"isFront":true,
+		"imageUrl":"kaptan.png"
+	},
+	{
+		"name":"karavan",
+		"isFront":true,
+		"imageUrl":"karavan.png"
+	},
+	{
+		"name":"kargo",
+		"isFront":true,
+		"imageUrl":"kargo.png"
+	},
+	{
+		"name":"karlı hava",
+		"isFront":true,
+		"imageUrl":"karlı hava.png"
+	},
+	{
+		"name":"kar maskesi",
+		"isFront":true,
+		"imageUrl":"kar maskesi.png"
+	},
+	{
+		"name":"kaşağı",
+		"isFront":true,
+		"imageUrl":"kaşağı.png"
+	},
+	{
+		"name":"kase",
+		"isFront":true,
+		"imageUrl":"kase.png"
+	},
+	{
+		"name":"kaşık",
+		"isFront":true,
+		"imageUrl":"kaşık.png"
+	},
+	{
+		"name":"kedi",
+		"isFront":true,
+		"imageUrl":"kedi.png"
+	},
+	{
+		"name":"kelepçe",
+		"isFront":true,
+		"imageUrl":"kelepçe.png"
+	},
+	{
+		"name":"kemik",
+		"isFront":true,
+		"imageUrl":"kemik.png"
+	},
+	{
+		"name":"keşif",
+		"isFront":true,
+		"imageUrl":"keşif.png"
+	},
+	{
+		"name":"kesme tahtası",
+		"isFront":true,
+		"imageUrl":"kesme tahtası.png"
+	},
+	{
+		"name":"ketçap",
+		"isFront":true,
+		"imageUrl":"ketçap.png"
+	},
+	{
+		"name":"kibrit",
+		"isFront":true,
+		"imageUrl":"kibrit.png"
+	},
+	{
+		"name":"kilise",
+		"isFront":true,
+		"imageUrl":"kilise.png"
+	},
+	{
+		"name":"kitaplık",
+		"isFront":true,
+		"imageUrl":"kitaplık.png"
+	},
+	{
+		"name":"kılıç",
+		"isFront":true,
+		"imageUrl":"kılıç.png"
+	},
+	{
+		"name":"klozet",
+		"isFront":true,
+		"imageUrl":"klozet.png"
+	},
+	{
+		"name":"kokteyl",
+		"isFront":true,
+		"imageUrl":"kokteyl.png"
+	},
+	{
+		"name":"koltuk",
+		"isFront":true,
+		"imageUrl":"koltuk.png"
+	},
+	{
+		"name":"konuşan kaya",
+		"isFront":true,
+		"imageUrl":"konuşan kaya.png"
+	},
+	{
+		"name":"köpek maması",
+		"isFront":true,
+		"imageUrl":"köpek maması.png"
+	},
+	{
+		"name":"köprü",
+		"isFront":true,
+		"imageUrl":"köprü.png"
+	},
+	{
+		"name":"korsan",
+		"isFront":true,
+		"imageUrl":"korsan.png"
+	},
+	{
+		"name":"kova",
+		"isFront":true,
+		"imageUrl":"kova.png"
+	},
+	{
+		"name":"kovboy",
+		"isFront":true,
+		"imageUrl":"kovboy.png"
+	},
+	{
+		"name":"kovboy şapkası",
+		"isFront":true,
+		"imageUrl":"kovboy şapkası.png"
+	},
+	{
+		"name":"köy bilgesi",
+		"isFront":true,
+		"imageUrl":"köy bilgesi.png"
+	},
+	{
+		"name":"köylü fare",
+		"isFront":true,
+		"imageUrl":"köylü fare.png"
+	},
+	{
+		"name":"kraliçe",
+		"isFront":true,
+		"imageUrl":"kraliçe.png"
+	},
+	{
+		"name":"kullanım kılavuzu",
+		"isFront":true,
+		"imageUrl":"kullanım kılavuzu.png"
+	},
+	{
+		"name":"kül tablası",
+		"isFront":true,
+		"imageUrl":"kül tablası.png"
+	},
+	{
+		"name":"kümes",
+		"isFront":true,
+		"imageUrl":"kümes.png"
+	},
+	{
+		"name":"kum fırtınası",
+		"isFront":true,
+		"imageUrl":"kum fırtınası.png"
+	},
+	{
+		"name":"kum saati",
+		"isFront":true,
+		"imageUrl":"kum saati.png"
+	},
+	{
+		"name":"kuraklık",
+		"isFront":true,
+		"imageUrl":"kuraklık.png"
+	},
+	{
+		"name":"kurdele",
+		"isFront":true,
+		"imageUrl":"kurdele.png"
+	},
+	{
+		"name":"kürek",
+		"isFront":true,
+		"imageUrl":"kürek.png"
+	},
+	{
+		"name":"kuş yuvası",
+		"isFront":true,
+		"imageUrl":"kuş yuvası.png"
+	},
+	{
+		"name":"küvet",
+		"isFront":true,
+		"imageUrl":"küvet.png"
+	},
+	{
+		"name":"labirent",
+		"isFront":true,
+		"imageUrl":"labirent.png"
+	},
+	{
+		"name":"lavabo",
+		"isFront":true,
+		"imageUrl":"lavabo.png"
+	},
+	{
+		"name":"limon",
+		"isFront":true,
+		"imageUrl":"limon.png"
+	},
+	{
+		"name":"lunapark",
+		"isFront":true,
+		"imageUrl":"lunapark.png"
+	},
+	{
+		"name":"madenci kaskı",
+		"isFront":true,
+		"imageUrl":"madenci kaskı.png"
+	},
+	{
+		"name":"mağara",
+		"isFront":true,
+		"imageUrl":"mağara.png"
+	},
+	{
+		"name":"mancınık",
+		"isFront":true,
+		"imageUrl":"mancınık.png"
+	},
+	{
+		"name":"manken",
+		"isFront":true,
+		"imageUrl":"manken.png"
+	},
+	{
+		"name":"mantar",
+		"isFront":true,
+		"imageUrl":"mantar.png"
+	},
+	{
+		"name":"maskeli kuş",
+		"isFront":true,
+		"imageUrl":"maskeli kuş.png"
+	},
+	{
+		"name":"maymun",
+		"isFront":true,
+		"imageUrl":"maymun.png"
+	},
+	{
+		"name":"mayonez",
+		"isFront":true,
+		"imageUrl":"mayonez.png"
+	},
+	{
+		"name":"mektup",
+		"isFront":true,
+		"imageUrl":"mektup.png"
+	},
+	{
+		"name":"merdane",
+		"isFront":true,
+		"imageUrl":"merdane.png"
+	},
+	{
+		"name":"meşale",
+		"isFront":true,
+		"imageUrl":"meşale.png"
+	},
+	{
+		"name":"meteor",
+		"isFront":true,
+		"imageUrl":"meteor.png"
+	},
+	{
+		"name":"mezar taşı",
+		"isFront":true,
+		"imageUrl":"mezar taşı.png"
+	},
+	{
+		"name":"mısır tarlası",
+		"isFront":true,
+		"imageUrl":"mısır tarlası.png"
+	},
+	{
+		"name":"muhafız",
+		"isFront":true,
+		"imageUrl":"muhafız.png"
+	},
+	{
+		"name":"muhendis",
+		"isFront":true,
+		"imageUrl":"muhendis.png"
+	},
+	{
+		"name":"mum",
+		"isFront":true,
+		"imageUrl":"mum.png"
+	},
+	{
+		"name":"mumya",
+		"isFront":true,
+		"imageUrl":"mumya.png"
+	},
+	{
+		"name":"musluk",
+		"isFront":true,
+		"imageUrl":"musluk.png"
+	},
+	{
+		"name":"müze",
+		"isFront":true,
+		"imageUrl":"müze.png"
+	},
+	{
+		"name":"nükleer reaktör",
+		"isFront":true,
+		"imageUrl":"nükleer reaktör.png"
+	},
+	{
+		"name":"ödül çeki",
+		"isFront":true,
+		"imageUrl":"ödül çeki.png"
+	},
+	{
+		"name":"oksijen tüpü",
+		"isFront":true,
+		"imageUrl":"oksijen tüpü.png"
+	},
+	{
+		"name":"okyanus",
+		"isFront":true,
+		"imageUrl":"okyanus.png"
+	},
+	{
+		"name":"olta",
+		"isFront":true,
+		"imageUrl":"olta.png"
+	},
+	{
+		"name":"örümcek ağı",
+		"isFront":true,
+		"imageUrl":"örümcek ağı.png"
+	},
+	{
+		"name":"oyuncak ayı",
+		"isFront":true,
+		"imageUrl":"oyuncak ayı.png"
+	},
+	{
+		"name":"palmiye",
+		"isFront":true,
+		"imageUrl":"palmiye.png"
+	},
+	{
+		"name":"palyaço",
+		"isFront":true,
+		"imageUrl":"palyaço.png"
+	},
+	{
+		"name":"pano",
+		"isFront":true,
+		"imageUrl":"pano.png"
+	},
+	{
+		"name":"papağan",
+		"isFront":true,
+		"imageUrl":"papağan.png"
+	},
+	{
+		"name":"papyon",
+		"isFront":true,
+		"imageUrl":"papyon.png"
+	},
+	{
+		"name":"para kesesi",
+		"isFront":true,
+		"imageUrl":"para kesesi.png"
+	},
+	{
+		"name":"parfüm",
+		"isFront":true,
+		"imageUrl":"parfüm.png"
+	},
+	{
+		"name":"parmaklık",
+		"isFront":true,
+		"imageUrl":"parmaklık.png"
+	},
+	{
+		"name":"parşömen",
+		"isFront":true,
+		"imageUrl":"parşömen.png"
+	},
+	{
+		"name":"paskalya yumurtası",
+		"isFront":true,
+		"imageUrl":"paskalya yumurtası.png"
+	},
+	{
+		"name":"patron",
+		"isFront":true,
+		"imageUrl":"patron.png"
+	},
+	{
+		"name":"pencere",
+		"isFront":true,
+		"imageUrl":"pencere.png"
+	},
+	{
+		"name":"perde",
+		"isFront":true,
+		"imageUrl":"perde.png"
+	},
+	{
+		"name":"peri asası",
+		"isFront":true,
+		"imageUrl":"peri asası.png"
+	},
+	{
+		"name":"pipet",
+		"isFront":true,
+		"imageUrl":"pipet.png"
+	},
+	{
+		"name":"piyano",
+		"isFront":true,
+		"imageUrl":"piyano.png"
+	},
+	{
+		"name":"pırlanta",
+		"isFront":true,
+		"imageUrl":"pırlanta.png"
+	},
+	{
+		"name":"polis",
+		"isFront":true,
+		"imageUrl":"polis.png"
+	},
+	{
+		"name":"posta güvercini",
+		"isFront":true,
+		"imageUrl":"posta güvercini.png"
+	},
+	{
+		"name":"posta kutusu",
+		"isFront":true,
+		"imageUrl":"posta kutusu.png"
+	},
+	{
+		"name":"prova mankeni",
+		"isFront":true,
+		"imageUrl":"prova mankeni.png"
+	},
+	{
+		"name":"radyasyon",
+		"isFront":true,
+		"imageUrl":"radyasyon.png"
+	},
+	{
+		"name":"sinyali",
+		"isFront":true,
+		"imageUrl":"sinyali.png"
+	},
+	{
+		"name":"ranza",
+		"isFront":true,
+		"imageUrl":"ranza.png"
+	},
+	{
+		"name":"rapor",
+		"isFront":true,
+		"imageUrl":"rapor.png"
+	},
+	{
+		"name":"reçel",
+		"isFront":true,
+		"imageUrl":"reçel.png"
+	},
+	{
+		"name":"resepsiyon",
+		"isFront":true,
+		"imageUrl":"resepsiyon.png"
+	},
+	{
+		"name":"resim sergisi",
+		"isFront":true,
+		"imageUrl":"resim sergisi.png"
+	},
+	{
+		"name":"ressam",
+		"isFront":true,
+		"imageUrl":"ressam.png"
+	},
+	{
+		"name":"robot",
+		"isFront":true,
+		"imageUrl":"robot.png"
+	},
+	{
+		"name":"ruj",
+		"isFront":true,
+		"imageUrl":"ruj.png"
+	},
+	{
+		"name":"saban",
+		"isFront":true,
+		"imageUrl":"saban.png"
+	},
+	{
+		"name":"sabun",
+		"isFront":true,
+		"imageUrl":"sabun.png"
+	},
+	{
+		"name":"şakacı bal kabağı",
+		"isFront":true,
+		"imageUrl":"şakacı bal kabağı.png"
+	},
+	{
+		"name":"salyangoz",
+		"isFront":true,
+		"imageUrl":"salyangoz.png"
+	},
+	{
+		"name":"saman balyası",
+		"isFront":true,
+		"imageUrl":"saman balyası.png"
+	},
+	{
+		"name":"samanlık",
+		"isFront":true,
+		"imageUrl":"samanlık.png"
+	},
+	{
+		"name":"sandal",
+		"isFront":true,
+		"imageUrl":"sandal.png"
+	},
+	{
+		"name":"şapka",
+		"isFront":true,
+		"imageUrl":"şapka.png"
+	},
+	{
+		"name":"satıcı",
+		"isFront":true,
+		"imageUrl":"satıcı.png"
+	},
+	{
+		"name":"sedye",
+		"isFront":true,
+		"imageUrl":"sedye.png"
+	},
+	{
+		"name":"şeker",
+		"isFront":true,
+		"imageUrl":"şeker.png"
+	},
+	{
+		"name":"sekreter",
+		"isFront":true,
+		"imageUrl":"sekreter.png"
+	},
+	{
+		"name":"şemsiye",
+		"isFront":true,
+		"imageUrl":"şemsiye.png"
+	},
+	{
+		"name":"serum",
+		"isFront":true,
+		"imageUrl":"serum.png"
+	},
+	{
+		"name":"sigara",
+		"isFront":true,
+		"imageUrl":"sigara.png"
+	},
+	{
+		"name":"sihirli küre",
+		"isFront":true,
+		"imageUrl":"sihirli küre.png"
+	},
+	{
+		"name":"silah deposu",
+		"isFront":true,
+		"imageUrl":"silah deposu.png"
+	},
+	{
+		"name":"silah",
+		"isFront":true,
+		"imageUrl":"silah.png"
+	},
+	{
+		"name":"şırınga",
+		"isFront":true,
+		"imageUrl":"şırınga.png"
+	},
+	{
+		"name":"soda",
+		"isFront":true,
+		"imageUrl":"soda.png"
+	},
+	{
+		"name":"soyguncu",
+		"isFront":true,
+		"imageUrl":"soyguncu.png"
+	},
+	{
+		"name":"steteskop",
+		"isFront":true,
+		"imageUrl":"steteskop.png"
+	},
+	{
+		"name":"suçlu",
+		"isFront":true,
+		"imageUrl":"suçlu.png"
+	},
+	{
+		"name":"su kuyusu",
+		"isFront":true,
+		"imageUrl":"su kuyusu.png"
+	},
+	{
+		"name":"su yansıması",
+		"isFront":true,
+		"imageUrl":"su yansıması.png"
+	},
+	{
+		"name":"tablo",
+		"isFront":true,
+		"imageUrl":"tablo.png"
+	},
+	{
+		"name":"tabure",
+		"isFront":true,
+		"imageUrl":"tabure.png"
+	},
+	{
+		"name":"tarak",
+		"isFront":true,
+		"imageUrl":"tarak.png"
+	},
+	{
+		"name":"tartışma",
+		"isFront":true,
+		"imageUrl":"tartışma.png"
+	},
+	{
+		"name":"teleskop",
+		"isFront":true,
+		"imageUrl":"teleskop.png"
+	},
+	{
+		"name":"televizyon",
+		"isFront":true,
+		"imageUrl":"televizyon.png"
+	},
+	{
+		"name":"telsiz",
+		"isFront":true,
+		"imageUrl":"telsiz.png"
+	},
+	{
+		"name":"temizlikçi",
+		"isFront":true,
+		"imageUrl":"temizlikçi.png"
+	},
+	{
+		"name":"tohum",
+		"isFront":true,
+		"imageUrl":"tohum.png"
+	},
+	{
+		"name":"toka",
+		"isFront":true,
+		"imageUrl":"toka.png"
+	},
+	{
+		"name":"toplantı salonu",
+		"isFront":true,
+		"imageUrl":"toplantı salonu.png"
+	},
+	{
+		"name":"topuklu ayakkabı",
+		"isFront":true,
+		"imageUrl":"topuklu ayakkabı.png"
+	},
+	{
+		"name":"traktör",
+		"isFront":true,
+		"imageUrl":"traktör.png"
+	},
+	{
+		"name":"tren garı",
+		"isFront":true,
+		"imageUrl":"tren garı.png"
+	},
+	{
+		"name":"tren",
+		"isFront":true,
+		"imageUrl":"tren.png"
+	},
+	{
+		"name":"turşu",
+		"isFront":true,
+		"imageUrl":"turşu.png"
+	},
+	{
+		"name":"tuvalet kağıdı",
+		"isFront":true,
+		"imageUrl":"tuvalet kağıdı.png"
+	},
+	{
+		"name":"tuzak",
+		"isFront":true,
+		"imageUrl":"tuzak.png"
+	},
+	{
+		"name":"uçan balon",
+		"isFront":true,
+		"imageUrl":"uçan balon.png"
+	},
+	{
+		"name":"uydu",
+		"isFront":true,
+		"imageUrl":"uydu.png"
+	},
+	{
+		"name":"uzay gemisi",
+		"isFront":true,
+		"imageUrl":"uzay gemisi.png"
+	},
+	{
+		"name":"uzay kapsulu",
+		"isFront":true,
+		"imageUrl":"uzay kapsulu.png"
+	},
+	{
+		"name":"uzaylı",
+		"isFront":true,
+		"imageUrl":"uzaylı.png"
+	},
+	{
+		"name":"yabani ot",
+		"isFront":true,
+		"imageUrl":"yabani ot.png"
+	},
+	{
+		"name":"yanardağ",
+		"isFront":true,
+		"imageUrl":"yanardağ.png"
+	},
+	{
+		"name":"yangın",
+		"isFront":true,
+		"imageUrl":"yangın.png"
+	},
+	{
+		"name":"adam",
+		"isFront":true,
+		"imageUrl":"adam.png"
+	},
+	{
+		"name":"yarasa",
+		"isFront":true,
+		"imageUrl":"yarasa.png"
+	},
+	{
+		"name":"yargıç",
+		"isFront":true,
+		"imageUrl":"yargıç.png"
+	},
+	{
+		"name":"yatak",
+		"isFront":true,
+		"imageUrl":"yatak.png"
+	},
+	{
+		"name":"yel değirmeni",
+		"isFront":true,
+		"imageUrl":"yel değirmeni.png"
+	},
+	{
+		"name":"yılan balığı",
+		"isFront":true,
+		"imageUrl":"yılan balığı.png"
+	},
+	{
+		"name":"yolcu gemisi",
+		"isFront":true,
+		"imageUrl":"yolcu gemisi.png"
+	},
+	{
+		"name":"yosun",
+		"isFront":true,
+		"imageUrl":"yosun.png"
+	},
+	{
+		"name":"yumak",
+		"isFront":true,
+		"imageUrl":"yumak.png"
+	},
+	{
+		"name":"zar",
+		"isFront":true,
+		"imageUrl":"zar.png"
+	},
+	{
+		"name":"zehirli mantar",
+		"isFront":true,
+		"imageUrl":"zehirli mantar.png"
+	},
+	{
+		"name":"zıpkın",
+		"isFront":true,
+		"imageUrl":"zıpkın.png"
+	},
+	{
+		"name":"zombi",
+		"isFront":true,
+		"imageUrl":"zombi.png"
+	},
+	{
+		"name":"arka kart",
+		"isFront":false,
+		"imageUrl":"arka kart.png"
+	},
+	{
+		"name":"arka kart2",
+		"isFront":false,
+		"imageUrl":"arka kart2.png"
+	},
+	{
+		"name":"arka kart3",
+		"isFront":false,
+		"imageUrl":"arka kart3.png"
+	}
+
+
+]
